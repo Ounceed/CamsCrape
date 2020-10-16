@@ -13,7 +13,7 @@ CamsCrape is a country cameras scraper programmed using Javascript, CamsCrape ca
 # Note
 
  1. Recommend NodeJS version is 12 or above.
- 2. Use the Country Code of the country you want to scrape the cameras.
+ 2. Use the Country Code of the country you want to scrape the cameras, for Example: US, UK, AL.
 
 # Dependancies
 
