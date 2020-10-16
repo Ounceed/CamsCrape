@@ -22,4 +22,5 @@ CamsCrape is a country cameras scraper programmed using Javascript, CamsCrape ca
  3. https://www.npmjs.com/package/chalk
 
 # Maintainer
-[VerviumStrike](https://github.com/VerviumStrike)
+
+ - [VerviumStrike](https://github.com/VerviumStrike)
